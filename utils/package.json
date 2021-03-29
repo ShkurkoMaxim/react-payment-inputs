@@ -1,0 +1,6 @@
+{
+  "name": "react-payment-inputs/utils",
+  "private": true,
+  "main": "../lib/utils",
+  "module": "../es/utils"
+}

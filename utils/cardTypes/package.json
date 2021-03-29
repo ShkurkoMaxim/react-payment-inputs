@@ -1,0 +1,6 @@
+{
+  "name": "react-payment-inputs/utils/cardTypes",
+  "private": true,
+  "main": "../../lib/utils/cardTypes",
+  "module": "../../es/utils/cardTypes"
+}
