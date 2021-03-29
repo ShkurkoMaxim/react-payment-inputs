@@ -114,7 +114,7 @@ export const CARD_TYPES = [
     displayName: 'Mir',
     type: 'mir',
     format: DEFAULT_CARD_FORMAT,
-    startPattern: /^(2200|2204)/,
+    startPattern: /^(220)/,
     gaps: [4, 8, 12],
     lengths: [16, 17, 18, 19],
     code: {
